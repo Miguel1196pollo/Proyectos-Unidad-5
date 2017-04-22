@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seccion_02</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete">Delete</string>
+</resources>
